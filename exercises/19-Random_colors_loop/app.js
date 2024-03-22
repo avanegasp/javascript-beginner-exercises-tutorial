@@ -27,5 +27,5 @@ function getAllStudentColors() {
 }
 
 //call the function below with the number of students in the class and print on the console
-getAllStudentColors();
+getAllStudentColors(12);
 
